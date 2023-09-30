@@ -1,0 +1,7 @@
+flask
+transformers
+pandas
+numpy
+nltk
+scikit-learn
+

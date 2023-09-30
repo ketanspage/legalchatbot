@@ -1,0 +1,61 @@
+
+
+Article 14: Right to Equality: This article guarantees that all citizens are equal before the law, and that no one shall be discriminated against on the basis of religion, race, caste, sex, or place of birth.
+Article 19: Right to Freedom: This article guarantees the right to freedom of speech, expression, assembly, movement, and trade.
+Article 21: Right to Life: This article guarantees the right to life and personal liberty, and no one shall be deprived of their life or personal liberty except according to the procedure established by law.
+Article 32: Right to Constitutional Remedies: This article guarantees the right to move the Supreme Court for the enforcement of fundamental rights.
+Article 370: Special Status for Jammu and Kashmir: This article grants special status to the state of Jammu and Kashmir, and gives it its own constitution.
+Article 395: Reservation for Backward Classes: This article provides for the reservation of seats in government jobs and educational institutions for members of backward classes.
+Article 42: Right to Work: This article provides for the right to work, and the government is required to make effective provision for securing the right to work to all citizens.
+Article 51A: Fundamental Duties: This article lists the fundamental duties of all citizens, including the duty to uphold the Constitution and the law, to promote harmony and brotherhood, and to defend the country.
+Article 15: Prohibition of Discrimination: This article prohibits discrimination on the basis of religion, race, caste, sex, or place of birth.
+Article 16: Equality of Opportunity in Public Employment: This article guarantees equality of opportunity in public employment.
+Article 17: Abolition of Untouchability: This article abolishes untouchability and prohibits its practice in any form.
+Article 22: Protection against Arrest and Detention: This article provides for the protection of citizens from arbitrary arrest and detention.
+Article 25: Freedom of Conscience and Free Profession, Practice and Propagation of Religion: This article guarantees the right to freedom of conscience and the right to freely profess, practice, and propagate religion.
+Article 26: Freedom to Manage Religious Affairs: This article guarantees the right to freedom to manage religious affairs.
+Article 29: Cultural and Educational Rights of Minorities: This article guarantees the right of minorities to conserve their language, script, and culture.
+Article 30: Right of Minorities to Establish and Administer Educational Institutions: This article guarantees the right of minorities to establish and administer educational institutions.
+Article 33: Right to Property: This article guarantees the right to property.
+Article 38: Directive Principles of State Policy: This article lays down the Directive Principles of State Policy, which are guidelines for the government to follow in order to achieve the objectives of the Constitution.
+Article 381: Constitution of Supreme Court: This article establishes the Supreme Court of India and defines its powers and jurisdiction.
+Article 382: Constitution of High Courts: This article establishes the High Courts of India and defines their powers and jurisdiction.
+Article 383: Appointment and Conditions of Service of Judges: This article provides for the appointment and conditions of service of judges of the Supreme Court and the High Courts.
+Article 24: Prohibition of Employment of Children in Factories etc.: This article prohibits the employment of children below the age of 14 years in factories, mines, or other hazardous occupations.
+Article 26A: Right to Free and Compulsory Education for Children of Age Six to Fourteen Years: This article guarantees the right to free and compulsory education for all children between the ages of 6 and 14 years.
+Article 39A: Equal Justice and Free Legal Aid: This article provides for the provision of equal justice and free legal aid to all citizens.
+Article 41: Right to Public Assistance in Case of Unemployment, Old Age, Sickness and Disablement and in Other Cases: This article provides for the right to public assistance in case of unemployment, old age, sickness, disablement, and other cases.
+Article 44: Uniform Civil Code for the Citizens: This article directs the government to endeavor to secure for the citizens a uniform civil code throughout the territory of India.
+Article 47: Prohibition of Intoxicating Drinks and Drugs: This article directs the government to endeavor to prohibit the consumption of intoxicating drinks and drugs injurious to health.
+Article 48: Protection and Improvement of Environment and Safeguarding of Forests: This article directs the government to protect and improve the environment and safeguard forests.
+Article 49: Protection of Monuments and Places and Objects of National Importance: This article directs the government to protect monuments and places and objects of national importance.
+Article 51: Promotion of International Peace and Security: This article directs the government to endeavor to promote international peace and security.
+
+The Constitution of India is the supreme law of India. It lays down the fundamental principles and establishes the structure, procedures, powers, and duties of government institutions. The Constitution also guarantees certain fundamental rights to all citizens of India.
+
+Fundamental Rights: The Constitution guarantees six fundamental rights to all citizens of India:
+Right to Equality
+Right to Freedom
+Right against Exploitation
+Right to Freedom of Religion
+Cultural and Educational Rights
+Right to Constitutional Remedies
+Directive Principles of State Policy: The Directive Principles of State Policy are guidelines for the government to follow in order to achieve the objectives of the Constitution. These principles are not enforceable by the courts, but they are still important because they reflect the ideals and aspirations of the Indian people.
+Fundamental Duties: The Constitution also lists 11 fundamental duties of all citizens. These duties are intended to promote national unity, integrity, and social welfare.
+Here are some specific examples of how you can frame the context for chatbot training:
+
+Fundamental Rights:
+The Constitution guarantees the right to equality to all citizens of India. This means that no one can be discriminated against on the basis of religion, race, caste, sex, or place of birth.
+The Constitution guarantees the right to freedom to all citizens of India. This includes the right to freedom of speech, expression, assembly, movement, and trade.
+Directive Principles of State Policy:
+The Directive Principles of State Policy direct the government to work towards achieving a number of goals, such as:
+Securing the right to work, to education, and to public assistance in cases of unemployment, old age, sickness, and disablement.
+Raising the standard of living and improving public health.
+Promoting social justice and equality.
+The Directive Principles of State Policy are not enforceable by the courts, but they are still important because they reflect the ideals and aspirations of the Indian people.
+Fundamental Duties:
+The Constitution lists 11 fundamental duties of all citizens. These duties are intended to promote national unity, integrity, and social welfare.
+Some of the fundamental duties of citizens include:
+Upholding the Constitution and respecting its ideals and institutions.
+Cherishing and following the noble ideals which inspired the national struggle for freedom.
+Upholding and protecting the sovereignty, unity, and integrity of India.
